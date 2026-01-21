@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   
-# 𝓓𝓲𝓿𝔂𝓪𝓶 𝓢𝓲𝓻𝓼𝔀𝓪𝓵  
+# 👋 Hi, I'm 𝓓𝓲𝓿𝔂𝓪𝓶 𝓢𝓲𝓻𝓼𝔀𝓪𝓵  
 
 `Software Engineer`
 
