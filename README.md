@@ -5,13 +5,13 @@
 
 <!-- BADGES -->
 <p>
-  <a href="https://github.com/YOUR-USERNAME?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YOUR-USERNAME?color=161b22&labelColor=0d1117&style=for-the-badge&logo=person-add&label=Follow&logoColor=58a6ff"/>
+  <a href="https://github.com/Divyamsirswal?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Divyamsirswal?color=161b22&labelColor=0d1117&style=for-the-badge&logo=person-add&label=Follow&logoColor=58a6ff"/>
   </a>
-  <a href="https://github.com/YOUR-USERNAME?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YOUR-USERNAME?color=161b22&style=for-the-badge&labelColor=0d1117&logo=star&logoColor=58a6ff"/>
+  <a href="https://github.com/Divyamsirswal?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Divyamsirswal?color=161b22&style=for-the-badge&labelColor=0d1117&logo=star&logoColor=58a6ff"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=161b22&labelColor=0d1117"/>
+  <img src="https://komarev.com/ghpvc/?username=Divyamsirswal&style=for-the-badge&color=161b22&labelColor=0d1117"/>
 </p>
 
 <!-- TYPING SVG -->
@@ -94,14 +94,14 @@ hobbies:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Divyamsirswal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Divyamsirswal&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyamsirswal&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph"/>
 </div>
 
 ---
@@ -110,17 +110,17 @@ hobbies:
 
 <div align="center">
 
-<a href="https://github.com/YOUR-USERNAME/project-1">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=project-1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+<a href="https://github.com/Divyamsirswal/project-1">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=project-1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
 </a>
-<a href="https://github.com/YOUR-USERNAME/project-2">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=project-2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+<a href="https://github.com/Divyamsirswal/project-2">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=project-2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
 </a>
-<a href="https://github.com/YOUR-USERNAME/project-3">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=project-3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+<a href="https://github.com/Divyamsirswal/project-3">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=project-3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
 </a>
-<a href="https://github.com/YOUR-USERNAME/project-4">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=project-4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+<a href="https://github.com/Divyamsirswal/project-4">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=project-4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
 </a>
 
 </div>
@@ -199,7 +199,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░    
 │   🔧 SETUP INSTRUCTIONS:                                              │
 │                                                                       │
 │   1. Create a repository with your exact GitHub username              │
-│   2. Replace ALL "YOUR-USERNAME" with your GitHub username            │
+│   2. Replace ALL "Divyamsirswal" with your GitHub username            │
 │   3. Replace "Your Name" with your actual name                        │
 │   4. Update project-1, project-2, etc. with your repo names          │
 │   5. Update all social media links                                    │
