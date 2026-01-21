@@ -1,70 +1,110 @@
-<img align="right" src="https://raw.githubusercontent.com/Divyamsirswal/Divyamsirswal/main/pixel-dev.gif" width="240"/>
+<!-- Header -->
+<div align="center">
+  
+# Divyam Sirswal
 
-## Hey, I'm Divyam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
+`Software Engineer` · `ICPC Regionalist`
 
-**Software Engineer** · ICPC Regionalist
-
-<br>
-
-Full Stack Developer passionate about scalable distributed systems and cloud architecture.  
-BTech CSE @ Graphic Era University (8.60 CGPA) · Class of 2026
+Building scalable systems with **Go**, **TypeScript**, and **Next.js**
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyamsirswal)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/divyamsirswal)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:divyamsirswal361@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://divyamsirswal.dev)
+[<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>](https://linkedin.com/in/divyamsirswal)
+[<img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=white" height="25"/>](https://twitter.com/divyamsirswal)
+[<img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>](mailto:divyamsirswal361@gmail.com)
 
-<br clear="both">
+</div>
 
----
-
-### What I work with
-
-```
-Languages       JavaScript · TypeScript · Go · C++
-Frontend        Next.js (App Router) · React · Tailwind CSS · ShadCN UI
-Backend         REST APIs · Express · Gin · Prisma · PostgreSQL
-DevOps          Docker · Linux · Vercel · Render
-Integrations    LiveKit · Razorpay · Pusher · Judge0 · Groq API
-```
+<br>
 
 ---
 
-### Featured Projects
+<br>
 
-<a href="https://github.com/Divyamsirswal/gitmatch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=gitmatch&theme=graywhite&hide_border=true" />
-</a>
-<a href="https://github.com/Divyamsirswal/cpp-playground">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=cpp-playground&theme=graywhite&hide_border=true" />
-</a>
-<a href="https://github.com/Divyamsirswal/ai-quiz-maker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=ai-quiz-maker&theme=graywhite&hide_border=true" />
-</a>
-<a href="https://github.com/Divyamsirswal/flux-limiter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=flux-limiter&theme=graywhite&hide_border=true" />
-</a>
+<!-- About -->
+### About
+
+I'm a Full Stack Developer focused on **distributed systems** and **developer tools**. I enjoy building products that solve real problems — from real-time collaboration platforms to high-performance rate limiters.
+
+**Currently:** Building SaaS products and exploring system design at scale.
+
+<br>
 
 ---
 
-### Stats
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Divyamsirswal&show_icons=true&hide_title=true&hide_border=true&theme=graywhite&hide_rank=true&include_all_commits=true" height="150"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Divyamsirswal&hide_border=true&mode=weekly&theme=graywhite" height="150"/>
+<!-- Tech Stack -->
+### Stack
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>TypeScript · Go · JavaScript · C++</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>Next.js · React · Tailwind · ShadCN</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>Node.js · Gin · PostgreSQL · Prisma</td>
+</tr>
+<tr>
+<td><b>DevOps</b></td>
+<td>Docker · Linux · Vercel · Render</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-### Achievement
+<br>
 
-🏆 **ICPC Regionalist** — ACM-ICPC Asia Kanpur Regional Contest 2024
+<!-- Projects -->
+### Projects
+
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| [**gitmatch**](https://github.com/Divyamsirswal/gitmatch) | Find your coding partner | TypeScript, Next.js |
+| [**cpp-playground**](https://github.com/Divyamsirswal/cpp-playground) | Browser-based C++ IDE with 95+ Lighthouse score | Next.js, Judge0 |
+| [**ai-quiz-maker**](https://github.com/Divyamsirswal/ai-quiz-maker) | AI-powered quiz generator (15 questions in <5s) | Go, Groq API |
+| [**flux-limiter**](https://github.com/Divyamsirswal/flux-limiter) | High-performance distributed rate limiter | Go, Redis, Docker |
+
+<br>
 
 ---
 
-<sub>📍 India · Open to opportunities · divyamsirswal361@gmail.com</sub>
+<br>
 
-<!--
-To add pixel character: upload pixel-dev.gif to your profile repo
-Or remove that img line if you don't want it
--->
+<!-- Stats -->
+### Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Divyamsirswal&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&icon_color=58a6ff&text_color=888" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Divyamsirswal&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakNum=888&sideNums=888&currStreakLabel=58a6ff&sideLabels=888&dates=555" height="165"/>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<!-- Achievement -->
+<div align="center">
+
+🏆 **ICPC Regionalist** · ACM-ICPC Asia Kanpur Regional 2024
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+<sub>Open to opportunities · Building in public</sub>
+</div>
