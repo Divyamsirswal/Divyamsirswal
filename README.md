@@ -1,183 +1,219 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Your+Name;Full+Stack+Developer;Open+Source+Enthusiast;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR-USERNAME?label=Stars&style=for-the-badge&color=6C63FF" alt="Stars" />
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Your%20Name&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences&descSize=20&descAlignY=55&descAlign=50"/>
+
+<!-- BADGES -->
+<p>
+  <a href="https://github.com/YOUR-USERNAME?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YOUR-USERNAME?color=161b22&labelColor=0d1117&style=for-the-badge&logo=person-add&label=Follow&logoColor=58a6ff"/>
+  </a>
+  <a href="https://github.com/YOUR-USERNAME?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YOUR-USERNAME?color=161b22&style=for-the-badge&labelColor=0d1117&logo=star&logoColor=58a6ff"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=161b22&labelColor=0d1117"/>
 </p>
 
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</p>
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A8+Full+Stack+Developer+%7C+System+Architect;%F0%9F%9A%80+Building+Tomorrow's+Technology+Today;%F0%9F%8E%AF+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+</a>
 
-<!-- About Me Section -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</div>
 
-## 🧑‍💻 About Me
+<!-- ABOUT SECTION -->
+<br/>
 
-```javascript
-const developer = {
-    name: "Your Name",
-    title: "Full Stack Developer",
-    location: "Your City, Country 🌍",
-    currentlyWorking: "Building something amazing",
-    learning: ["Web3", "AI/ML", "Cloud Architecture"],
-    askMeAbout: ["Tech", "Music", "Coffee ☕"],
-    funFact: "I debug with console.log and I'm proud of it 😄"
-};
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="180" />
+
+```yaml
+name: Your Name
+located_in: Your City, Country
+current_role: Software Engineer @ Company
+
+education:
+  - "Bachelor's in Computer Science"
+  
+fields_of_interest:
+  - "Full Stack Development"
+  - "Cloud Architecture"
+  - "Open Source"
+  - "Developer Experience"
+  
+currently_learning:
+  - "Rust & Systems Programming"
+  - "Distributed Systems"
+  
+hobbies:
+  - "Building Side Projects"
+  - "Contributing to OSS"
+  - "Tech Writing"
+  - "Coffee Brewing ☕"
 ```
 
-<br clear="right"/>
-
-## 🎯 What I Do
-
-- 🔭 Currently working on **exciting projects**
-- 🌱 Learning **new technologies every day**
-- 👯 Open to **collaborate on innovative projects**
-- 💬 Ask me about **Web Dev, DevOps, System Design**
-- 📫 Reach me at **your.email@example.com**
-- ⚡ Fun fact: **I turn coffee into code**
+<br clear="both"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,go,rust&theme=dark" alt="Skills" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,mongodb,postgresql,redis,graphql,git&theme=dark" alt="Skills" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,figma,vscode,linux,nginx,vercel,firebase&theme=dark" alt="Skills" />
-</p>
+<div align="center">
 
----
+### 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=DEA584)
 
-## 📊 GitHub Analytics
+### 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-</p>
+### 𝗖𝗹𝗼𝘂𝗱 & 𝗗𝗲𝘃𝗢𝗽𝘀
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=github-actions&logoColor=2088FF)
+![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=844FBA)
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
-</p>
+### 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=FF4438)
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> &nbsp;GitHub Analytics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"/>
+</div>
 
----
+<br/>
 
-## 🎵 Vibing To
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR-SPOTIFY-ID&cover_image=true&theme=novatorem&bar_color=6C63FF&bar_color_cover=true" alt="Spotify"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://dev.to/YOUR-DEVTO" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://YOUR-PORTFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph"/>
+</div>
 
 ---
 
-## 💻 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="28" /> &nbsp;Featured Projects
 
-<p align="center">
-  <a href="https://github.com/YOUR-USERNAME/project-1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/YOUR-USERNAME/project-2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="Project 2"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/YOUR-USERNAME/project-1">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=project-1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+</a>
+<a href="https://github.com/YOUR-USERNAME/project-2">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=project-2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+</a>
+<a href="https://github.com/YOUR-USERNAME/project-3">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=project-3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+</a>
+<a href="https://github.com/YOUR-USERNAME/project-4">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=project-4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+</a>
+
+</div>
 
 ---
 
-## 📈 Coding Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="28" /> &nbsp;Weekly Coding Stats
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 hrs 30 mins  ███████████░░░░░░  45.2%
-TypeScript   8 hrs 15 mins   ███████░░░░░░░░░░  29.8%
-Python       4 hrs 10 mins   ████░░░░░░░░░░░░░  15.1%
-CSS          2 hrs 45 mins   ██░░░░░░░░░░░░░░░   9.9%
+TypeScript   █████████████░░░░░░░░   52.4%
+Python       ██████░░░░░░░░░░░░░░░   24.1%
+Go           ████░░░░░░░░░░░░░░░░░   15.2%
+YAML         █░░░░░░░░░░░░░░░░░░░░    4.8%
+Other        █░░░░░░░░░░░░░░░░░░░░    3.5%
 ```
 <!--END_SECTION:waka-->
 
 ---
 
-## 💡 A Random Dev Quote
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="28" /> &nbsp;Connect With Me
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR-TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=58a6ff)](https://YOUR-PORTFOLIO.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your.email@example.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR-DEVTO)
 
-## 🎮 When I'm Not Coding
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation"/>
-  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix"/>
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" /> Let's Collaborate!
+
+<p>
+  <i>I'm always interested in hearing about new projects and opportunities.</i><br/>
+  <i>Feel free to reach out if you'd like to connect!</i>
 </p>
 
-<p align="center">
-  <b>✨ Thanks for visiting! Let's build something amazing together! ✨</b>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header"/>
+
+<br/>
+
+```
+       ╔═══════════════════════════════════════════════════════╗
+       ║                                                       ║
+       ║   "Code is like humor. When you have to explain it,   ║
+       ║              it's bad." — Cory House                  ║
+       ║                                                       ║
+       ╚═══════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
+
+</div>
+
+<!--
+╭───────────────────────────────────────────────────────────────────────╮
+│                                                                       │
+│   🔧 SETUP INSTRUCTIONS:                                              │
+│                                                                       │
+│   1. Create a repository with your exact GitHub username              │
+│   2. Replace ALL "YOUR-USERNAME" with your GitHub username            │
+│   3. Replace "Your Name" with your actual name                        │
+│   4. Update project-1, project-2, etc. with your repo names          │
+│   5. Update all social media links                                    │
+│                                                                       │
+│   📊 OPTIONAL INTEGRATIONS:                                           │
+│                                                                       │
+│   • WakaTime Stats: github.com/anmol098/waka-readme-stats            │
+│   • Snake Animation: github.com/Platane/snk (requires GitHub Action) │
+│                                                                       │
+│   🎨 CUSTOMIZATION:                                                   │
+│                                                                       │
+│   • Primary Color: #58a6ff (GitHub blue)                             │
+│   • Background: #0d1117 (GitHub dark)                                │
+│   • Change these values to match your preferred theme                 │
+│                                                                       │
+╰───────────────────────────────────────────────────────────────────────╯
+-->
