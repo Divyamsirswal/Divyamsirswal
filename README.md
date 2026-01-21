@@ -3,9 +3,9 @@
   
 # Divyam Sirswal
 
-`Software Engineer` · `ICPC Regionalist`
+`Software Engineer`
 
-Building scalable systems with **Go**, **TypeScript**, and **Next.js**
+Building scalable systems with **Next.js**, **TypeScript**, and  **Go**
 
 <br>
 
