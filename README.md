@@ -1,6 +1,6 @@
 # Hi, I'm Divyam Sirswal
 
-I'm a Backend & Distributed Systems Engineer (B.Tech CSE '26) who loves breaking things under heavy load just to figure out how to make them indestructible. Whether it's dodging `502 Bad Gateway` errors, eliminating race conditions, or scaling event-driven pipelines, I thrive in the chaos of backend engineering.
+Backend & Distributed Systems Engineer (B.Tech CSE '26) passionate about building scalable and high-performance applications. I focus on creating reliable systems that can handle heavy traffic smoothly. I enjoy tackling deep architectural challenges, from eliminating database race conditions to designing efficient event-driven pipelines.
 
 ---
 
