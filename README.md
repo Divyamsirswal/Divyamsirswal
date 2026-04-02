@@ -1,12 +1,12 @@
-# Hi, I'm Divyam Sirswal 👋
+# Hi, I'm Divyam Sirswal
 
 I'm a Backend & Distributed Systems Engineer (B.Tech CSE '26) who loves breaking things under heavy load just to figure out how to make them indestructible. Whether it's dodging `502 Bad Gateway` errors, eliminating race conditions, or scaling event-driven pipelines, I thrive in the chaos of backend engineering.
 
 ---
 
-### 🛠️ The Tech Arsenal
+### Stack
 
-- **The Engine:** Go (Golang), C++, TypeScript / JavaScript
+- **The Engine:** Go (Golang), TypeScript / JavaScript
 - **Architecture:** Microservices, Event-Driven Systems, REST APIs (Gin, Express)
 - **Data & Caching:** PostgreSQL, Redis
 - **Message Brokers:** RabbitMQ
