@@ -1,110 +1,43 @@
-<!-- Header -->
-<div align="center">
-  
-# 👋 Hi, I'm 𝓓𝓲𝓿𝔂𝓪𝓶 𝓢𝓲𝓻𝓼𝔀𝓪𝓵  
+# Hi, I'm Divyam Sirswal 👋
 
-`Software Engineer`
-
-Building scalable systems with **Next.js**, **TypeScript**, and  **Go**
-
-<br>
-
-[<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>](https://linkedin.com/in/divyamsirswal)
-[<img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=white" height="25"/>](https://twitter.com/divyamsirswal)
-[<img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>](mailto:divyamsirswal361@gmail.com)
-
-</div>
-
-<br>
+I'm a Backend & Distributed Systems Engineer (B.Tech CSE '26) who loves breaking things under heavy load just to figure out how to make them indestructible. Whether it's dodging `502 Bad Gateway` errors, eliminating race conditions, or scaling event-driven pipelines, I thrive in the chaos of backend engineering.
 
 ---
 
-<br>
+### 🛠️ The Tech Arsenal
 
-<!-- About -->
-### About
-
-I'm a Full Stack Developer focused on **distributed systems** and **developer tools**. I enjoy building products that solve real problems — from real-time collaboration platforms to high-performance rate limiters.
-
-**Currently:** Building SaaS products and exploring system design at scale.
-
-<br>
+- **The Engine:** Go (Golang), C++, TypeScript / JavaScript
+- **Architecture:** Microservices, Event-Driven Systems, REST APIs (Gin, Express)
+- **Data & Caching:** PostgreSQL, Redis
+- **Message Brokers:** RabbitMQ
+- **DevOps & Cloud:** Docker, Linux
+- **Frontend (When necessary):** Next.js (App Router), React, TailwindCSS
 
 ---
 
-<br>
+### 🏆 Featured Engineering
 
-<!-- Tech Stack -->
-### Stack
+#### ⚡ [Surge - Distributed Flash Sale Engine](link-to-your-repo)
+*Why wait in a virtual queue when you can engineer your way out of it?*
+- **The Core:** Architected a high-throughput backend in **Golang** to handle 10,000+ concurrent checkout requests.
+- **The Scale:** Bypassed database locks and OS socket exhaustion by routing traffic through **Redis** (`DECR`) and buffering validated orders into **RabbitMQ**, achieving sub-3ms API latency with zero data loss.
 
-<table>
-<tr>
-<td><b>Languages</b></td>
-<td>TypeScript · Go · JavaScript · C++</td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td>Next.js · React · Tailwind · ShadCN</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>Node.js · Gin · PostgreSQL · Prisma</td>
-</tr>
-<tr>
-<td><b>DevOps</b></td>
-<td>Docker · Linux · Vercel · Render</td>
-</tr>
-</table>
+#### 🔁 [SkillSwap - P2P Learning Platform](link-to-your-repo)
+- Full-stack session exchange platform handling sub-200ms video/audio latency via WebRTC (LiveKit). 
+- Architected a robust credit-based monetization system with Razorpay, processing payments with a 99% success rate.
 
-<br>
+#### 💻 [Browser-Based C++ IDE](link-to-your-repo)
+- A highly scalable serverless architecture utilizing Next.js and the Judge0 API.
+- Executed C++ code with real-time syntax highlighting, maintaining ~150ms API response times for up to 100 req/sec.
 
 ---
 
-<br>
-
-<!-- Projects -->
-### Projects
-
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| [**gitmatch**](https://github.com/Divyamsirswal/gitmatch) | Find your coding partner | TypeScript, Next.js |
-| [**cpp-playground**](https://github.com/Divyamsirswal/cpp-playground) | Browser-based C++ IDE with 95+ Lighthouse score | Next.js, Judge0 |
-| [**ai-quiz-maker**](https://github.com/Divyamsirswal/ai-quiz-maker) | AI-powered quiz generator (15 questions in <5s) | Go, Groq API |
-| [**flux-limiter**](https://github.com/Divyamsirswal/flux-limiter) | High-performance distributed rate limiter | Go, Redis, Docker |
-
-<br>
+### 📈 Milestones & Trophies
+- 🏅 **ICPC Regionalist:** Qualified for the highly competitive ACM-ICPC Asia Kanpur Regional Contest (2024).
 
 ---
 
-<br>
-
-<!-- Stats -->
-### Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Divyamsirswal&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&icon_color=58a6ff&text_color=888" height="165"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Divyamsirswal&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakNum=888&sideNums=888&currStreakLabel=58a6ff&sideLabels=888&dates=555" height="165"/>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<!-- Achievement -->
-<div align="center">
-
-🏆 **ICPC Regionalist** · ACM-ICPC Asia Kanpur Regional 2024
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-<sub>Open to opportunities · Building in public</sub>
-</div>
+### 📬 Let's Connect
+Looking to talk about scalable backends, cloud architecture, or why E-commerce checkouts are fundamentally broken? 
+- [LinkedIn](https://www.linkedin.com/in/divyamsirswal/)
+- 📧 divyamsirswal361@gmail.com
