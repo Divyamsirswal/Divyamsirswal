@@ -1,43 +1,9 @@
-# Hi, I'm Divyam Sirswal
+# Divyam Sirswal
 
-Backend & Distributed Systems Engineer passionate about building scalable and high-performance applications. I focus on creating reliable systems that can handle heavy traffic smoothly. I enjoy tackling deep architectural challenges, from eliminating database race conditions to designing efficient event-driven pipelines.
+**Backend & Full-Stack Developer**
 
----
+I focus on backend and full-stack development. I'm highly interested in exploring complex backend systems, solving architectural challenges, and building robust, end-to-end products.
 
-### Stack
+**Core Stack:** Go • TypeScript • PostgreSQL • Redis • RabbitMQ • Docker 
 
-- **The Engine:** Go (Golang), TypeScript / JavaScript
-- **Architecture:** Microservices, Event-Driven Systems, REST APIs (Gin, Express)
-- **Data & Caching:** PostgreSQL, Redis
-- **Message Brokers:** RabbitMQ
-- **DevOps & Cloud:** Docker, Linux
-- **Frontend (When necessary):** Next.js (App Router), React, TailwindCSS
-
----
-
-### Projects
-
-####  [Surge - Distributed Flash Sale Engine](link-to-your-repo)
-*Why wait in a virtual queue when you can engineer your way out of it?*
-- **The Core:** Architected a high-throughput backend in **Golang** to handle 10,000+ concurrent checkout requests.
-- **The Scale:** Bypassed database locks and OS socket exhaustion by routing traffic through **Redis** (`DECR`) and buffering validated orders into **RabbitMQ**, achieving sub-3ms API latency with zero data loss.
-
-####  [SkillSwap - P2P Learning Platform](link-to-your-repo)
-- Full-stack session exchange platform handling sub-200ms video/audio latency via WebRTC (LiveKit). 
-- Architected a robust credit-based monetization system with Razorpay, processing payments with a 99% success rate.
-
-####  [Browser-Based C++ IDE](link-to-your-repo)
-- A highly scalable serverless architecture utilizing Next.js and the Judge0 API.
-- Executed C++ code with real-time syntax highlighting, maintaining ~150ms API response times for up to 100 req/sec.
-
----
-
-###  Milestones & Trophies
--  **ICPC Regionalist:** Qualified for the highly competitive ACM-ICPC Asia Kanpur Regional Contest (2024).
-
----
-
-###  Let's Connect
-Looking to talk about scalable backends, cloud architecture, or why E-commerce checkouts are fundamentally broken? 
-- [LinkedIn](https://www.linkedin.com/in/divyamsirswal/)
-- 📧 divyamsirswal361@gmail.com
+**Connect:** [LinkedIn](https://www.linkedin.com/in/divyamsirswal/) | [divyamsirswal361@gmail.com](mailto:divyamsirswal361@gmail.com)
