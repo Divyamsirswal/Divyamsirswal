@@ -58,25 +58,24 @@ I am a passionate **Backend Systems Engineer** dedicated to designing and buildi
 
 *(Note: Ensure your GitHub repository names match the links exactly)*
 
-<!-- Repo Cards Fixed (No newlines between HTML tags to prevent breaking) -->
 <div align="center">
-  <a href="https://github.com/Divyamsirswal/student-management-system-springboot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=student-management-system-springboot&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=3FB950" alt="Student Management System Spring Boot" /></a>
-  <a href="https://github.com/Divyamsirswal/url-shortener-go"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=url-shortener-go&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=3FB950" alt="URL Shortener Go" /></a>
+
+[![Student Management System Spring Boot](https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=student-management-system-springboot&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=3FB950&v=1)](https://github.com/Divyamsirswal/student-management-system-springboot) [![URL Shortener Go](https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=url-shortener-go&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=3FB950&v=1)](https://github.com/Divyamsirswal/url-shortener-go)
+
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<!-- Stats Cards Fixed -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyamsirswal&show_icons=true&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=3FB950" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyamsirswal&layout=compact&theme=github_dark&hide_border=true&title_color=3FB950" alt="Top Languages" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyamsirswal&show_icons=true&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=3FB950&v=1) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyamsirswal&layout=compact&theme=github_dark&hide_border=true&title_color=3FB950&v=1)
+
 </div>
 
 <br>
 
-<!-- Activity Graph Fixed (Switched away from transparent to fix pink background glitch) -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyamsirswal&theme=github-dark-dimmed&hide_border=true&color=3FB950&line=3FB950&point=FFFFFF" alt="Contribution Graph" />
 </div>
@@ -86,7 +85,9 @@ I am a passionate **Backend Systems Engineer** dedicated to designing and buildi
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Divyamsirswal&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Divyamsirswal&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true&v=1)
+
 </div>
 
 ---
