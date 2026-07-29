@@ -4,13 +4,13 @@
 
 ### Backend Engineer | Java & Spring Boot Specialist | Distributed Systems Enthusiast
 
-<!-- Typing SVG Fixed -->
-<a href="https://github.com/Divyamsirswal"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1500&color=3FB950&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Mastering+Java+%26+Spring+Boot;Exploring+Distributed+Architecture;Writing+Clean+%26+Robust+Code;Always+Learning+🚀" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=3FB950&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Mastering+Java+%26+Spring+Boot;Exploring+Distributed+Architecture;Writing+Clean+%26+Robust+Code;Always+Learning+🚀)](https://github.com/Divyamsirswal)
 
-<!-- Views Fixed -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Divyamsirswal&label=Profile%20Views&color=3FB950&style=for-the-badge" alt="Profile Views" />
-</p>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Divyamsirswal&label=Profile%20Views&color=3FB950&style=for-the-badge)
+
+<br/>
 
 > *"Build it correctly. Build it cleanly. Then build it to scale."*
 
@@ -25,7 +25,7 @@ I am a passionate **Backend Systems Engineer** dedicated to designing and buildi
 - 🔭 **Currently Focusing On:** Production-grade Spring Boot microservices, Backend Architecture, and Distributed Systems.
 - 🌱 **Currently Learning:** Advanced System Design, complex DSA, and scalable cloud deployments.
 - ⚡ **Fun Fact:** I believe a well-structured database schema is half the battle won!
-- 📫 **Reach out to me:** [your-email@gmail.com](mailto:divyamsirswal361@gmail.com)
+- 📫 **Reach out to me:** [divyamsirswal361@gmail.com](mailto:divyamsirswal361@gmail.com)
 
 ---
 
@@ -56,8 +56,6 @@ I am a passionate **Backend Systems Engineer** dedicated to designing and buildi
 
 ## 📌 Featured Work
 
-*(Note: Ensure your GitHub repository names match the links exactly)*
-
 <div align="center">
 
 [![Student Management System Spring Boot](https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=student-management-system-springboot&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=3FB950&v=1)](https://github.com/Divyamsirswal/student-management-system-springboot) [![URL Shortener Go](https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=url-shortener-go&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=3FB950&v=1)](https://github.com/Divyamsirswal/url-shortener-go)
@@ -77,7 +75,9 @@ I am a passionate **Backend Systems Engineer** dedicated to designing and buildi
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyamsirswal&theme=github-dark-dimmed&hide_border=true&color=3FB950&line=3FB950&point=FFFFFF" alt="Contribution Graph" />
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyamsirswal&theme=github-dark-dimmed&hide_border=true&color=3FB950&line=3FB950&point=FFFFFF&v=1)
+
 </div>
 
 ---
@@ -97,7 +97,7 @@ I am a passionate **Backend Systems Engineer** dedicated to designing and buildi
 <div align="center">
 
 <a href="https://linkedin.com/in/divyamsirswal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:divyamsirswal361@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Divyamsirswal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br><br>
