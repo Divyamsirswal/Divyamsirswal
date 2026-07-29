@@ -1,140 +1,116 @@
 <div align="center">
 
-# Hi 👋 I'm Divyam Sirswal
+# Hi there, I'm Divyam Sirswal 👋
 
-### Backend Engineer • Java • Spring Boot • Distributed Systems
+### Backend Engineer | Java & Spring Boot Specialist | Distributed Systems Enthusiast
 
-<p>
-Building scalable backend systems, mastering distributed architecture, and creating software that solves real-world problems.
+<a href="https://github.com/Divyamsirswal">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=3FB950&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Mastering+Java+%26+Spring+Boot;Exploring+Distributed+Architecture;Writing+Clean+%26+Robust+Code;Always+Learning+🚀" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Divyamsirswal&label=Profile%20Views&color=3FB950&style=flat-square" alt="Profile Views" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=3FB950&center=true&vCenter=true&width=700&lines=Backend+Engineer;Java+%7C+Spring+Boot+Developer;Learning+Distributed+Systems;Building+Production-Grade+Projects;Always+Learning+🚀" />
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=Divyamsirswal&style=for-the-badge&color=blue)
+> *"Build it correctly. Build it cleanly. Then build it to scale."*
 
 </div>
 
----
+<br>
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm passionate about building scalable backend systems and learning how large-scale software works internally.
+I am a passionate **Backend Systems Engineer** dedicated to designing and building robust, high-performance applications. My core expertise revolves around the Java ecosystem, and I am deeply fascinated by how large-scale software works under the hood.
 
-Currently focusing on
+- 🔭 **Currently Focusing On:** Production-grade Spring Boot microservices, Backend Architecture, and Distributed Systems.
+- 🌱 **Currently Learning:** Advanced System Design, complex DSA, and scalable cloud deployments.
+- ⚡ **Fun Fact:** I believe a well-structured database schema is half the battle won!
+- 📫 **Reach out to me:** [your-email@gmail.com](mailto:your-email@gmail.com)
 
-- ☕ Java
-- 🌱 Spring Boot
-- 🐘 PostgreSQL
-- 🐳 Docker
-- ⚡ Redis
-- ☁️ System Design
-- 🌍 Distributed Systems
+<br>
 
-My long-term goal is to become a world-class Backend Systems Engineer.
+## 🛠️ Technical Arsenal
 
----
-
-# 🚀 Tech Stack
-
-### Languages
-
+<details open>
+<summary><b>Languages & Frameworks</b></summary>
+<br>
+  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+</details>
 
-### Backend
+<details open>
+<summary><b>Databases & Infrastructure</b></summary>
+<br>
+  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</details>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+<details open>
+<summary><b>Tools & Workflow</b></summary>
+<br>
+  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</details>
 
-### Database
+<br>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+## 📌 Featured Work
 
-### DevOps
+*(Note: Ensure these repository names exactly match your GitHub repos)*
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+<div align="center">
+  <a href="https://github.com/Divyamsirswal/Spring-Boot-Backend-Journey">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=Spring-Boot-Backend-Journey&theme=transparent&hide_border=true&title_color=3FB950&icon_color=3FB950&text_color=777&show_icons=true" alt="Spring Boot Backend Journey" width="48%" />
+  </a>
+  <a href="https://github.com/Divyamsirswal/Distributed-Systems">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=Distributed-Systems&theme=transparent&hide_border=true&title_color=3FB950&icon_color=3FB950&text_color=777&show_icons=true" alt="Distributed Systems" width="48%" />
+  </a>
+</div>
 
-### Tools
+<br>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+## 📊 GitHub Analytics
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyamsirswal&show_icons=true&theme=transparent&hide_border=true&title_color=3FB950&icon_color=3FB950&text_color=777" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyamsirswal&layout=compact&theme=transparent&hide_border=true&title_color=3FB950&text_color=777" alt="Top Languages" width="48%" />
+</div>
 
-# 🌱 Currently Working On
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyamsirswal&theme=transparent&hide_border=true&color=3FB950&line=3FB950&point=FFFFFF" alt="Contribution Graph" />
+</div>
 
-- Production Grade Spring Boot Projects
-- Distributed Systems
-- Backend Architecture
-- System Design
-- DSA
+<br>
 
----
+## 🏆 Achievements
 
-# 📌 Featured Repositories
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Divyamsirswal&theme=transparent&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+</div>
 
-⭐ Spring Boot Backend Journey
+<br>
 
-⭐ Java Backend Journey
-
-⭐ Distributed Systems
-
-⭐ Backend Projects
-
-⭐ DSA in Java
-
-⭐ Portfolio
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Divyamsirswal&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyamsirswal&theme=github-compact"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/divyamsirswal">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/Divyamsirswal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
+## 🌐 Let's Connect
 
 <div align="center">
 
-### 💡 Philosophy
+<a href="https://linkedin.com/in/divyamsirswal">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/Divyamsirswal">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-> **"Build it correctly. Build it cleanly. Then build it to scale."**
-
-⭐ If you like my work, consider starring a repository.
+<br><br>
+<p>⭐ If you found my work helpful, consider leaving a star on my repositories!</p>
 
 </div>
