@@ -60,8 +60,8 @@ I am a passionate **Backend Systems Engineer** dedicated to designing and buildi
 
 <!-- Repo Cards Fixed (No newlines between HTML tags to prevent breaking) -->
 <div align="center">
-  <a href="https://github.com/Divyamsirswal/Spring-Boot-Backend-Journey"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=Spring-Boot-Backend-Journey&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=3FB950" alt="Spring Boot Backend Journey" /></a>
-  <a href="https://github.com/Divyamsirswal/Distributed-Systems"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=Distributed-Systems&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=3FB950" alt="Distributed Systems" /></a>
+  <a href="https://github.com/Divyamsirswal/student-management-system-springboot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=student-management-system-springboot&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=3FB950" alt="Student Management System Spring Boot" /></a>
+  <a href="https://github.com/Divyamsirswal/url-shortener-go"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=url-shortener-go&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=3FB950" alt="URL Shortener Go" /></a>
 </div>
 
 ---
