@@ -1,106 +1,28 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/poster-dark.svg">
+  <img alt="I turn problems into products." src="assets/poster-light.svg" width="100%">
+</picture>
 
-# Hi there, I'm Divyam Sirswal 👋
+Product engineer in India. I look for problems people actually have, then build the product that fixes them, from the database to the last pixel.
 
-### Backend Engineer | Java & Spring Boot Specialist | Distributed Systems Enthusiast
+## Now building
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=3FB950&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Mastering+Java+%26+Spring+Boot;Exploring+Distributed+Architecture;Writing+Clean+%26+Robust+Code;Always+Learning+🚀)](https://github.com/Divyamsirswal)
+<a href="https://earlyward.com"><img alt="Earlyward overview: one service is down, and the likely cause is a deploy 94 seconds before the first failure." src="assets/earlyward.png" width="100%"></a>
 
-<br/>
+**[Earlyward](https://earlyward.com)**: your customers shouldn't be the ones who tell you the site is down. Earlyward tells you within a minute, and names the likely cause. Live, and free while in beta.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Divyamsirswal&label=Profile%20Views&color=3FB950&style=for-the-badge)
+## Shipped
 
-<br/>
+| The problem | What I built |
+| :-- | :-- |
+| A retry charges the customer twice. | **[IdemPay](https://github.com/Divyamsirswal/IdemPay)** makes each payment go through once, however many times it's sent. |
+| A flash sale sells more than you have. | **[Surge](https://github.com/Divyamsirswal/Surge)** sells exactly what's in stock, even when everyone hits buy at once. |
+| One client floods your API and slows it for everyone. | **[flux-limiter](https://github.com/Divyamsirswal/flux-limiter)** keeps one fair limit across every server. |
 
-> *"Build it correctly. Build it cleanly. Then build it to scale."*
+## How I work
 
-</div>
+**Start from the problem.** The stack comes after.<br>
+**Ship the smallest thing that fixes it,** then let real use shape the rest.<br>
+**Make it boring to run.** Retries, limits and alerts come first, not last.
 
----
-
-## 👨‍💻 About Me
-
-I am a passionate **Backend Systems Engineer** dedicated to designing and building robust, high-performance applications. My core expertise revolves around the Java ecosystem, and I am deeply fascinated by how large-scale software works under the hood.
-
-- 🔭 **Currently Focusing On:** Production-grade Spring Boot microservices, Backend Architecture, and Distributed Systems.
-- 🌱 **Currently Learning:** Advanced System Design, complex DSA, and scalable cloud deployments.
-- ⚡ **Fun Fact:** I believe a well-structured database schema is half the battle won!
-- 📫 **Reach out to me:** [divyamsirswal361@gmail.com](mailto:divyamsirswal361@gmail.com)
-
----
-
-## 🛠️ Technical Arsenal
-
-### Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-</p>
-
-### Databases & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-### Tools & Workflow
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-## 📌 Featured Work
-
-<div align="center">
-
-[![Student Management System Spring Boot](https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=student-management-system-springboot&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=3FB950&v=1)](https://github.com/Divyamsirswal/student-management-system-springboot) [![URL Shortener Go](https://github-readme-stats.vercel.app/api/pin/?username=Divyamsirswal&repo=url-shortener-go&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=3FB950&v=1)](https://github.com/Divyamsirswal/url-shortener-go)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyamsirswal&show_icons=true&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=3FB950&v=1) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyamsirswal&layout=compact&theme=github_dark&hide_border=true&title_color=3FB950&v=1)
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyamsirswal&theme=github-dark-dimmed&hide_border=true&color=3FB950&line=3FB950&point=FFFFFF&v=1)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Divyamsirswal&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true&v=1)
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/divyamsirswal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:divyamsirswal361@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Divyamsirswal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br><br>
-<p>⭐ If you found my work helpful, consider leaving a star on my repositories!</p>
-
-</div>
+**Have a problem worth solving?** [Email me](mailto:divyamsirswal361@gmail.com) · [LinkedIn](https://linkedin.com/in/divyamsirswal) · [earlyward.com](https://earlyward.com)
