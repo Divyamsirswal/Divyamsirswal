@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/poster-dark.svg">
-  <img alt="I turn problems into products." src="assets/poster-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/poster-v2-dark.svg">
+  <img alt="I turn problems into products." src="assets/poster-v2-light.svg" width="100%">
 </picture>
 
 Product engineer in India. I look for problems people actually have, then build the product that fixes them, from the database to the last pixel.
